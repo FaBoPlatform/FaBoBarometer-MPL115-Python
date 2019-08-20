@@ -17,7 +17,7 @@ classifiers = ['Development Status :: 4 - Beta',
 
 setup(
     name         = 'FaBoBarometer_MPL115',
-    version      = '1.0.0',
+    version      = '1.0.1',
     author       = 'FaBo',
     author_email = 'info@fabo.io',
     description  = "This is a library for the FaBo Barometer I2C Brick.",
